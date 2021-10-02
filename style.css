@@ -1,0 +1,42 @@
+
+body{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+tbody{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+tr{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    margin: auto;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 3px;
+    font-size: 20px;
+    padding: 8px;
+}
